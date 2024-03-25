@@ -1,5 +1,8 @@
-# 👋KIM JI SEOP
+# 👋더 나은 코드를 위해 고민하는 개발자 김지섭입니다.
 
+### Contact
+- Mail : jskim2x@naver.com
+- Tech-Blog : https://velog.io/@jskim2x/posts
 # :star:Skills 
 ![Java](https://img.shields.io/badge/Java-007396.svg?$style=for-the-badge&logo=Java&logoColor=white)
 ![C](https://img.shields.io/badge/C-FFDD00.svg?$style=for-the-badge&logo=C&logoColor=white)
